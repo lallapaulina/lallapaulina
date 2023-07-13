@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lallapaulina
-- 👀 I’m interested in understanding stuff
-- 🌱 I’m currently taking CS50
-- 💞️ I’m looking to collaborate on ... not sure about this one yet
+- 🌱 Interested in understanding stuff!
+- 💞️ Looking to collaborate on fun and chalenging projects!
 
 
 <!---
