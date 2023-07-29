@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lallapaulina
 - 🌱 Interested in understanding stuff!
-- 💞️ Looking to collaborate on fun and chalenging projects!
+- 💞️ Looking to collaborate on fun and challenging projects!
 
 
 <!---
